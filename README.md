@@ -25,7 +25,7 @@ Its useful for simple calculations.
 To run my application you simply need to clone the project and run the html file.
 
 ## Screenshot
-![calcscreen](1.png)
+![calculator](1.png)
 
 Issues
 ==========
